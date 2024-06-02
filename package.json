@@ -1,0 +1,55 @@
+{
+  "name": "aim-for-the-stars",
+  "displayName": "aim-for-the-stars",
+  "description": "A vibrant and motivational color theme that inspires you to reach your dreams every time you open your editor.",
+  "icon": "icons/icon.jpg",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "keywords": [
+    "AimForTheStars",
+    "theme",
+    "dark",
+    "vscode",
+    "custom",
+    "UI",
+    "colorful",
+    "inspired",
+    "customization",
+    "stylish",
+    "attractive",
+    "vibrant",
+    "Stellar",
+    "Vibrant",
+    "Motivating",
+    "Inspiring",
+    "Aspirational",
+    "Cosmic",
+    "Optimistic",
+    "Eclectic",
+    "Futuristic",
+    "Dream-evoking"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "AarMagic",
+    "url": "https://discord.gg/sC8DWpqJCd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AarMagic/aim-for-the-stars"
+  },
+  "publisher": "AarMagic",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aim For The Stars",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aim For The Stars-color-theme.json"
+      }
+    ]
+  }
+}
