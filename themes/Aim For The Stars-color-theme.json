@@ -35,7 +35,11 @@
 		"list.focusForeground": "#1E1E2E",
 		"list.hoverBackground": "#F8F8F250",
 		"list.hoverForeground": "#1E1E2E",
-		"list.highlightForeground": "#8d79ff"
+		"list.highlightForeground": "#8d79ff",
+        "editorSuggestWidget.background": "#282A36",
+        "editorSuggestWidget.foreground": "#F8F8F2",
+        "editorSuggestWidget.selectedBackground": "#00b5dda9",
+        "editorSuggestWidget.highlightForeground": "#00ffee"
 		
 	},
 	"tokenColors": [
