@@ -39,7 +39,23 @@
         "editorSuggestWidget.background": "#282A36",
         "editorSuggestWidget.foreground": "#F8F8F2",
         "editorSuggestWidget.selectedBackground": "#00b5dda9",
-        "editorSuggestWidget.highlightForeground": "#00ffee"
+        "editorSuggestWidget.highlightForeground": "#00ffee",
+		"menu.background": "#1d1f27",
+        "menu.foreground": "#F8F8F2",
+        "menu.selectionBackground": "#6db5c5",
+        "menu.selectionForeground": "#1d1f27",
+        "menu.separatorBackground": "#F8F8F2",
+		"titleBar.activeBackground": "#1d1f27",
+        "titleBar.activeForeground": "#F8F8F2",
+        "titleBar.inactiveBackground": "#282A36",
+        "titleBar.inactiveForeground": "#888888",
+        "quickInput.background": "#1d1f27",
+        "quickInput.foreground": "#F8F8F2",
+        "commandCenter.foreground": "#F8F8F2",
+        "commandCenter.activeForeground": "#6db5c5",
+        "commandCenter.background": "#1d1f27",
+		"tab.inactiveBackground": "#282A36",
+		
 		
 	},
 	"tokenColors": [
