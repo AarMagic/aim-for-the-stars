@@ -3,7 +3,7 @@
   "displayName": "Aim For The Stars",
   "description": "A vibrant and motivational color theme that inspires you to reach your dreams every time you open your editor.",
   "icon": "icons/icon.jpg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.89.0"
   },
